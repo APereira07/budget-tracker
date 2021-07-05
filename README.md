@@ -4,10 +4,10 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 Your challenge this week is to update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. Once you’ve made these changes, you’ll deploy the application to Heroku.
 
-Once you’ve updated the existing budget tracker, it should provide the following functionality:
+  -Once you’ve updated the existing budget tracker, it should provide the following functionality:
 
-The ability to enter deposits offline.
+  -The ability to enter deposits offline.
 
-The ability to enter expenses offline.
+  -The ability to enter expenses offline.
 
-Offline entries should be added to the tracker when the application is brought back online.
+  -Offline entries should be added to the tracker when the application is brought back online.
